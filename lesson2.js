@@ -14,3 +14,5 @@
   
   const FULL_NAME = "John Doe";
   const AMOUNT = 1000;
+
+  console.log ("hello world");
