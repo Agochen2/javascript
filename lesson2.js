@@ -16,3 +16,6 @@
   const AMOUNT = 1000;
 
   console.log ("hello world");
+
+
+  console.log ("hi there");
