@@ -42,3 +42,5 @@ const name ="Carl"
 console.log ("    asjhgkhdjg   jhdjkghajdkd hdgkjdf       ".trim())
 console.log ("    asjhgkhdjg   jhdjkghajdkd hdgkjdf       ".trim().length)
 console.log ("    asjhgkhdjg   jhdjkghajdkd hdgkjdf       ".length)
+
+alert ("hi there");
